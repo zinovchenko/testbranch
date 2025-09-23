@@ -2,7 +2,7 @@ Some changes
 
 New changes here!
 
-end (((
+end (
 
 New era! New commit!
 
