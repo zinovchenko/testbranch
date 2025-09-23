@@ -1,4 +1,0 @@
-print("Hello world!!!")
-print("This is my first code!")
-
-print("This is my last-last code!")
